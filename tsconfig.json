@@ -1,0 +1,22 @@
+{
+  "allowJs": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "removeComments": false,
+    "strictNullChecks": false,
+    
+  },
+  "include": [
+    "*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "lib"
+  ],
+
+  "compileOnSave": false,
+  "buildOnSave": false
+}
